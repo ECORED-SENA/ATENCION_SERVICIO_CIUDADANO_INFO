@@ -17,7 +17,7 @@ section
                 p.banner-principal__datos__item__texto Atención y servicio al ciudadano
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 9120002
+                p.banner-principal__datos__item__texto 09120002
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Total: 
                 p.banner-principal__datos__item__texto 48 Horas
